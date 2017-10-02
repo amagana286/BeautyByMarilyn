@@ -81,7 +81,8 @@ $(document).ready(function() {
             size: '150',
             easing: 'easeOutBounce',
             onStep: function(from, to, percent) {
-                $(this.el).find('.percent').text(Math.round(percent));
+                // $(this.el).find('.percent').text(Math.round(percent));
+                $(this.el).find('.percent2').text(Math.round(percent));
             }
         });
     }, {

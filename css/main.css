@@ -470,6 +470,7 @@ label.valid {
     margin-top: 50px;
     margin-bottom: 50px;
     text-align: center;
+    font-size: 2em;
 }
 
 .chart canvas {
@@ -483,11 +484,22 @@ label.valid {
     line-height: 150px;
     z-index: 2;
 }
+.percent2 {
+    display: inline-block;
+    line-height: 150px;
+    z-index: 2;
+}
 
-.percent:after {
+.percent:before {
+    content: '$';
+    margin-left: 0.1em;
+    font-size: 1em;
+}
+
+.percent2:after {
     content: '%';
     margin-left: 0.1em;
-    font-size: .8em;
+    font-size: 1em;
 }
 
 /* ==========================================================================
