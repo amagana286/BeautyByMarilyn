@@ -2,10 +2,37 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8dcaa868-14da-49a0-955c-ad50c9cd7cf7" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/16.jpg" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/16.jpg" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/portfolio/large/16.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/portfolio/small/16.jpg" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/large/01.JPG" afterPath="$PROJECT_DIR$/img/portfolio/large/01.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/large/03.JPG" afterPath="$PROJECT_DIR$/img/portfolio/large/03.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/large/06.JPG" afterPath="$PROJECT_DIR$/img/portfolio/large/06.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/large/07.JPG" afterPath="$PROJECT_DIR$/img/portfolio/large/07.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/large/08.JPG" afterPath="$PROJECT_DIR$/img/portfolio/large/08.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/large/09.JPG" afterPath="$PROJECT_DIR$/img/portfolio/large/09.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/large/10.jpg" afterPath="$PROJECT_DIR$/img/portfolio/large/10.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/large/11.jpg" afterPath="$PROJECT_DIR$/img/portfolio/large/11.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/large/12.jpg" afterPath="$PROJECT_DIR$/img/portfolio/large/12.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/large/13.jpg" afterPath="$PROJECT_DIR$/img/portfolio/large/13.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/large/14.jpg" afterPath="$PROJECT_DIR$/img/portfolio/large/14.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/large/15.JPG" afterPath="$PROJECT_DIR$/img/portfolio/large/15.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/small/01.jpg" afterPath="$PROJECT_DIR$/img/portfolio/small/01.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/small/03.jpg" afterPath="$PROJECT_DIR$/img/portfolio/small/03.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/small/06.jpg" afterPath="$PROJECT_DIR$/img/portfolio/small/06.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/small/07.jpg" afterPath="$PROJECT_DIR$/img/portfolio/small/07.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/small/08.jpg" afterPath="$PROJECT_DIR$/img/portfolio/small/08.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/small/09.jpg" afterPath="$PROJECT_DIR$/img/portfolio/small/09.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/small/10.jpg" afterPath="$PROJECT_DIR$/img/portfolio/small/10.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/small/11.jpg" afterPath="$PROJECT_DIR$/img/portfolio/small/11.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/small/12.jpg" afterPath="$PROJECT_DIR$/img/portfolio/small/12.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/small/13.jpg" afterPath="$PROJECT_DIR$/img/portfolio/small/13.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/small/14.jpg" afterPath="$PROJECT_DIR$/img/portfolio/small/14.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/small/15.jpg" afterPath="$PROJECT_DIR$/img/portfolio/small/15.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/BeautyByMarilyn.iml" afterPath="$PROJECT_DIR$/.idea/BeautyByMarilyn.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/home.html" afterPath="$PROJECT_DIR$/home.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -28,8 +55,8 @@
       <file leaf-file-name="home.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/home.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="983">
-              <caret line="146" column="21" lean-forward="true" selection-start-line="146" selection-start-column="21" selection-end-line="146" selection-end-column="21" />
+            <state relative-caret-position="354">
+              <caret line="629" column="67" lean-forward="true" selection-start-line="629" selection-start-column="67" selection-end-line="629" selection-end-column="67" />
               <folding>
                 <element signature="n#div#0;n#body#0;n#!!top" expanded="false" />
                 <element signature="n#section#0;n#body#0;n#!!top" expanded="false" />
@@ -38,7 +65,6 @@
                 <element signature="n#div#0;n#section#2;n#body#0;n#!!top" expanded="false" />
                 <element signature="n#section#3;n#body#0;n#!!top" expanded="false" />
                 <element signature="n#section#4;n#body#0;n#!!top" expanded="false" />
-                <element signature="n#section#5;n#body#0;n#!!top" expanded="false" />
                 <element signature="n#section#6;n#body#0;n#!!top" expanded="false" />
                 <element signature="n#section#7;n#body#0;n#!!top" expanded="false" />
               </folding>
@@ -120,6 +146,116 @@
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="SearchEverywhereHistoryKey" value="main&#9;FILE&#9;file://C:/Users/maganaa0/Desktop/Personal/BeautyByMarilyn/css/main.css&#10;home&#9;FILE&#9;file://C:/Users/maganaa0/Desktop/Personal/BeautyByMarilyn/home.html&#10;i&#9;FILE&#9;file://C:/Users/maganaa0/Desktop/Personal/BeautyByMarilyn/index.html&#10;inde&#9;FILE&#9;file://C:/Users/maganaa0/Desktop/Personal/BeautyByMarilyn/index.html" />
   </component>
+  <component name="RestoreUpdateTree" date="Moments ago" ActionInfo="_Update">
+    <UpdatedFiles>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Updated from server" />
+        <option name="myStatusName" value="Changed on server" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="CHANGED_ON_SERVER" />
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Updated" />
+          <option name="myStatusName" value="Changed" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="UPDATED" />
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Created" />
+          <option name="myStatusName" value="Created" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="CREATED" />
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/README.md</PATH>
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Deleted" />
+          <option name="myStatusName" value="Deleted" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="true" />
+          <option name="myId" value="REMOVED_FROM_REPOSITORY" />
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Restored" />
+          <option name="myStatusName" value="Will be restored" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="RESTORED" />
+        </FILE-GROUP>
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Modified" />
+        <option name="myStatusName" value="Modified" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MODIFIED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Skipped" />
+        <option name="myStatusName" value="Skipped" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="SKIPPED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with conflicts" />
+        <option name="myStatusName" value="Will be merged with conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_CONFLICTS" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with tree conflicts" />
+        <option name="myStatusName" value="Merged with tree conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_TREE_CONFLICT" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with property conflicts" />
+        <option name="myStatusName" value="Will be merged with property conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_PROPERTY_CONFLICT" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged" />
+        <option name="myStatusName" value="Will be merged" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Not in repository" />
+        <option name="myStatusName" value="Not in repository" />
+        <option name="mySupportsDeletion" value="true" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="UNKNOWN" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Locally added" />
+        <option name="myStatusName" value="Locally added" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="LOCALLY_ADDED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Locally removed" />
+        <option name="myStatusName" value="Locally removed" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="LOCALLY_REMOVED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Switched" />
+        <option name="myStatusName" value="Switched" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="SWITCHED" />
+      </FILE-GROUP>
+    </UpdatedFiles>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -182,11 +318,18 @@
       <option name="project" value="LOCAL" />
       <updated>1506901155017</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Pictures added + resized">
+      <created>1506902406267</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1506902406267</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9475000" />
+    <option name="totallyTimeSpent" value="10656000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1098" extended-state="6" />
@@ -195,10 +338,10 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32977587" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32977587" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -232,7 +375,8 @@
     <MESSAGE value="Final website edits:&#10;   - Pictures added.&#10;   - Formatted pictures.&#10;   - Contact form revised.&#10;   - Testimonials added.&#10;   &#10;&#10;Needed:&#10;   - Resume in PDF&#10;   - More pictures&#10;   - More testimonials&#10;   - Latin to words" />
     <MESSAGE value="Added missing files from last push." />
     <MESSAGE value="New home.html for GoDaddy standards.&#10;Respsonsive video on Mobile." />
-    <option name="LAST_COMMIT_MESSAGE" value="New home.html for GoDaddy standards.&#10;Respsonsive video on Mobile." />
+    <MESSAGE value="Pictures added + resized" />
+    <option name="LAST_COMMIT_MESSAGE" value="Pictures added + resized" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -315,7 +459,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/img/portfolio/large/11.jpg">
+    <entry file="file://$PROJECT_DIR$/img/portfolio/large/11.JPG">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
@@ -418,7 +562,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/img/portfolio/large/11.jpg">
+    <entry file="file://$PROJECT_DIR$/img/portfolio/large/11.JPG">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
@@ -495,10 +639,15 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/16.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/home.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="983">
-          <caret line="146" column="21" lean-forward="true" selection-start-line="146" selection-start-column="21" selection-end-line="146" selection-end-column="21" />
+        <state relative-caret-position="354">
+          <caret line="629" column="67" lean-forward="true" selection-start-line="629" selection-start-column="67" selection-end-line="629" selection-end-column="67" />
           <folding>
             <element signature="n#div#0;n#body#0;n#!!top" expanded="false" />
             <element signature="n#section#0;n#body#0;n#!!top" expanded="false" />
@@ -507,7 +656,6 @@
             <element signature="n#div#0;n#section#2;n#body#0;n#!!top" expanded="false" />
             <element signature="n#section#3;n#body#0;n#!!top" expanded="false" />
             <element signature="n#section#4;n#body#0;n#!!top" expanded="false" />
-            <element signature="n#section#5;n#body#0;n#!!top" expanded="false" />
             <element signature="n#section#6;n#body#0;n#!!top" expanded="false" />
             <element signature="n#section#7;n#body#0;n#!!top" expanded="false" />
           </folding>
