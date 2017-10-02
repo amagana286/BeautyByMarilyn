@@ -12,6 +12,10 @@ html, body {
     color: #757575;
 }
 
+::-webkit-scrollbar {
+    display: none;
+}
+
 img {
     max-width: 100%;
 }
@@ -117,8 +121,6 @@ h1, h2, h3, h4, h5, h6 {
 
 #page-profile .profile {
     border: 5px solid #333;
-    width: 225px;
-    height: 225px;
     margin: 0 20px 20px 0;
 }
 
@@ -634,13 +636,11 @@ label.valid {
 }
 
 .rotateimg180 {
-    display: inline-block;
-    display: inline;
-    -webkit-transform: rotate(270deg);
-    -moz-transform: rotate(270deg);
-    -ms-transform: rotate(270deg);
-    -o-transform: rotate(270deg);
-    transform: rotate(270deg);
+    -webkit-transform: rotate(180deg);
+    -moz-transform: rotate(180deg);
+    -ms-transform: rotate(180deg);
+    -o-transform: rotate(180deg);
+    transform: rotate(180deg);
 }
 
 iframe {
