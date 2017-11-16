@@ -142,7 +142,7 @@ h1, h2, h3, h4, h5, h6 {
 
 #page-portfolio {
     padding: 75px 0;
-    background: #fff;
+    background: #f7f7f7;
 }
 
 #page-contact {
@@ -153,8 +153,9 @@ h1, h2, h3, h4, h5, h6 {
     font-size: 1.2em;
 }
 
-#testimonials {
+#testimonials.testimonials {
     padding-top: 75px;
+    background: #f7f7f7;
 }
 
 /* ==========================================================================
