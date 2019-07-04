@@ -116,7 +116,7 @@ h1, h2, h3, h4, h5, h6 {
 
 #page-profile {
     padding: 75px 0;
-    background: #fff;
+    background: white;
 }
 
 #page-profile .profile {
@@ -124,15 +124,10 @@ h1, h2, h3, h4, h5, h6 {
     margin: 0 20px 20px 0;
 }
 
-#page-skills {
+#page-services {
     padding: 75px 0;
     background: #f7f7f7;
     text-align: center;
-}
-
-#page-education {
-    padding: 75px 0;
-    background: #fff;
 }
 
 #page-experience {
@@ -142,7 +137,7 @@ h1, h2, h3, h4, h5, h6 {
 
 #page-portfolio {
     padding: 75px 0;
-    background: #f7f7f7;
+    background: white;
 }
 
 #page-contact {
@@ -155,7 +150,7 @@ h1, h2, h3, h4, h5, h6 {
 
 #testimonials.testimonials {
     padding-top: 75px;
-    background: #f7f7f7;
+    background: white;
 }
 
 /* ==========================================================================
@@ -641,7 +636,7 @@ label.valid {
         font-size: 1.2em;
     }
 
-    #page-skills {
+    #page-services {
         text-align: center;
     }
 
