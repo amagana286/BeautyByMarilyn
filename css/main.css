@@ -535,7 +535,6 @@ label.valid {
     border: 1px solid #fff;
     color: #fff;
     background: none;
-    background-color: none;
     font-weight: bold;
     -webkit-transition-duration: 0.8s;
     -moz-transition-duration: 0.8s;
@@ -567,6 +566,10 @@ label.valid {
 }
 
 .btn-instagram:hover {
+    color: #BAB1A8;
+}
+
+.btn-bookonline:hover {
     color: #BAB1A8;
 }
 
