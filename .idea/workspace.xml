@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8dcaa868-14da-49a0-955c-ad50c9cd7cf7" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/BeautyByMarilyn.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/BeautyByMarilyn.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/home.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/profile/profile2.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/profile/selfie.JPG" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -25,12 +22,32 @@
     <fileColor scope="Non-Project Files (Material Palenight)" color="2f2e43" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/home.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3381">
+              <caret line="161" column="81" lean-forward="true" selection-start-line="161" selection-start-column="38" selection-end-line="161" selection-end-column="81" />
+              <folding>
+                <element signature="n#style#0;n#div#1;n#header#0;n#div#0;n#div#0;n#section#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/css/main.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="10" column="17" lean-forward="true" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>dropdown-backdrop</find>
-      <find>bootstrap.min</find>
       <find>touch</find>
       <find>ontouchstart</find>
       <find>webkit</find>
@@ -59,6 +76,8 @@
       <find>selfie</find>
       <find>3000</find>
       <find>availability</find>
+      <find>youtube</find>
+      <find>font-fam</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -74,8 +93,8 @@
         <option value="$PROJECT_DIR$/js/bootstrap.min.js" />
         <option value="$PROJECT_DIR$/mail/contact_me.php" />
         <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/css/main.css" />
         <option value="$PROJECT_DIR$/home.html" />
+        <option value="$PROJECT_DIR$/css/main.css" />
       </list>
     </option>
   </component>
@@ -95,6 +114,11 @@
             <path>
               <item name="BeautyByMarilyn" type="b2602c69:ProjectViewProjectNode" />
               <item name="BeautyByMarilyn" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BeautyByMarilyn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BeautyByMarilyn" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -194,7 +218,8 @@
       <workItem from="1562333234354" duration="95000" />
       <workItem from="1563032219906" duration="923000" />
       <workItem from="1564847693586" duration="6817000" />
-      <workItem from="1564855498052" duration="846000" />
+      <workItem from="1564855498052" duration="1070000" />
+      <workItem from="1564857276118" duration="476000" />
     </task>
     <task id="LOCAL-00001" summary="Final website edits:&#10;   - Pictures added.&#10;   - Formatted pictures.&#10;   - Contact form revised.&#10;   - Testimonials added.&#10;   &#10;&#10;Needed:&#10;   - Resume in PDF&#10;   - More pictures&#10;   - More testimonials&#10;   - Latin to words">
       <created>1504994519988</created>
@@ -263,10 +288,11 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="60728000" />
+    <option name="totallyTimeSpent" value="61428000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1680" height="1050" extended-state="6" />
+    <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28872815" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -440,26 +466,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17052">
-          <caret line="812" column="27" selection-start-line="812" selection-start-column="27" selection-end-line="812" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/portfolio_v2/Rebekah-Back.JPG">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/img/portfolio_v2/Rebekah-Back.JPG" />
     <entry file="file://$PROJECT_DIR$/img/portfolio_v2/Morgan.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/home.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="224" column="27" lean-forward="true" selection-start-line="224" selection-start-column="27" selection-end-line="224" selection-end-column="27" />
+        <state relative-caret-position="3381">
+          <caret line="161" column="81" lean-forward="true" selection-start-line="161" selection-start-column="38" selection-end-line="161" selection-end-column="81" />
           <folding>
             <element signature="n#style#0;n#div#1;n#header#0;n#div#0;n#div#0;n#section#4;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="17" lean-forward="true" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
         </state>
       </provider>
     </entry>

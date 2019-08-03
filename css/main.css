@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Abel|Muli|Nanum+Gothic|Poppins&display=swap');
+
 /* ==========================================================================
    Articulate v1.0
    ========================================================================== */
@@ -831,4 +833,12 @@ html, body {
 
 .carousel-fade .carousel-control {
     z-index: 2;
+}
+
+.about_text {
+    font-size: 1.2em;
+    /*font-family: 'Poppins', sans-serif;*/
+    font-family: 'Muli', sans-serif;
+    /*font-family: 'Nanum Gothic', sans-serif;*/
+    /*font-family: 'Abel', sans-serif;*/
 }
