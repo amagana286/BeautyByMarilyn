@@ -121,7 +121,9 @@ h1, h2, h3, h4, h5, h6 {
 
 #page-profile .profile {
     border: 5px solid #333;
-    margin: 0 20px 20px 0;
+    /*margin: 0 20px 20px 0;*/
+    margin-left: 12%;
+    margin-bottom: 5%;
 }
 
 #page-services {
@@ -797,4 +799,36 @@ iframe {
 html, body {
     max-width: 100%;
     width: 100%;
+}
+
+.carousel-indicators > li {
+    width: 11px;
+    height: 11px;
+    border-color: #9b59b6;
+}
+
+.carousel-fade .carousel-inner .item {
+    opacity: 0;
+    transition-property: opacity;
+    transition-duration: 2s;
+}
+
+.carousel-fade .carousel-inner .active {
+    opacity: 1;
+}
+
+.carousel-fade .carousel-inner .active.left,
+.carousel-fade .carousel-inner .active.right {
+    left: 0;
+    opacity: 0;
+    z-index: 1;
+}
+
+.carousel-fade .carousel-inner .next.left,
+.carousel-fade .carousel-inner .prev.right {
+    opacity: 1;
+}
+
+.carousel-fade .carousel-control {
+    z-index: 2;
 }
